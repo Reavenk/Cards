@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="7in"
+   height="2in"
+   viewBox="0 0 177.80001 50.800001"
+   version="1.1"
+   id="svg3442"
+   inkscape:version="1.2-beta (1b65182ce9, 2022-04-05)"
+   sodipodi:docname="gate_nand_01.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3444"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="in"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:snap-text-baseline="true"
+     inkscape:snap-page="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="2.0712039"
+     inkscape:cx="230.78365"
+     inkscape:cy="131.08318"
+     inkscape:window-width="2560"
+     inkscape:window-height="1017"
+     inkscape:window-x="2552"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:snap-global="true"
+     inkscape:deskcolor="#d1d1d1">
+    <sodipodi:guide
+       position="88.900005,50.800002"
+       orientation="1,0"
+       id="guide3781" />
+    <sodipodi:guide
+       position="83.900006,5.0000009"
+       orientation="0,-1"
+       id="guide4372" />
+    <sodipodi:guide
+       position="5.0000003,45.800001"
+       orientation="0,-1"
+       id="guide4374" />
+    <sodipodi:guide
+       position="5.0000003,48.300001"
+       orientation="1,0"
+       id="guide4376" />
+    <sodipodi:guide
+       position="172.80001,5.0000008"
+       orientation="1,0"
+       id="guide4378" />
+    <sodipodi:guide
+       position="83.900006,5.0000008"
+       orientation="1,0"
+       id="guide4620" />
+    <sodipodi:guide
+       position="93.900007,5.0000008"
+       orientation="1,0"
+       id="guide4622" />
+  </sodipodi:namedview>
+  <defs
+     id="defs3439" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:none;text-align:start;text-anchor:start;stroke-width:0.264583"
+       x="4.6830516"
+       y="60.380119"
+       id="theme"><tspan
+         sodipodi:role="line"
+         id="tspan6918"
+         style="text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="4.6830516"
+         y="60.380119">CompData</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:none;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="28.354977"
+       y="11.231485"
+       id="text2240-6"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="28.354977"
+         y="11.231485"
+         id="tspan1634-0" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:none;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="45.975372"
+       y="12.179911"
+       id="text2240-2-1"><tspan
+         sodipodi:role="line"
+         style="font-size:5.64444px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="45.975372"
+         y="12.179911"
+         id="tspan424">What does this </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:5.64444px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="45.975372"
+         y="19.23546"
+         id="tspan421">logic gate symbol</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:5.64444px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="45.975372"
+         y="26.291012"
+         id="tspan423">represent?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:none;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="133.49393"
+       y="26.768776"
+       id="text2240-2-1-7"><tspan
+         sodipodi:role="line"
+         style="font-weight:normal;font-size:5.64444px;text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="133.49393"
+         y="26.768776"
+         id="tspan447">A NAND gate</tspan></text>
+    <path
+       id="rect550"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.264999;stop-color:#000000"
+       d="m 36.854081,30.617253 v 12.007535 h 10.75955 a 5.2055573,6.0039549 0 0 0 0.0031,0 5.2055573,6.0039549 0 0 0 5.205367,-6.003767 5.2055573,6.0039549 0 0 0 -5.205367,-6.003768 5.2055573,6.0039549 0 0 0 -0.0031,0 z" />
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.264999;stop-color:#000000"
+       d="m 55.504716,36.621021 h 6.45106"
+       id="path554" />
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.264999;stop-color:#000000"
+       d="m 30.40302,40.223186 h 6.45106"
+       id="path554-8" />
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.264999;stop-color:#000000"
+       d="m 30.403021,33.018852 h 6.45106"
+       id="path554-8-3" />
+    <path
+       id="path306"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.264999;stop-color:#000000"
+       d="m 54.163619,35.2795 a 1.3413092,1.3413092 0 0 0 -1.34152,1.341521 1.3413092,1.3413092 0 0 0 1.34152,1.34152 1.3413092,1.3413092 0 0 0 1.341003,-1.34152 1.3413092,1.3413092 0 0 0 -1.341003,-1.341521 z" />
+  </g>
+</svg>

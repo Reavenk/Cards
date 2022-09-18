@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="7in"
+   height="2in"
+   viewBox="0 0 177.80001 50.800001"
+   version="1.1"
+   id="svg3442"
+   inkscape:version="1.2-beta (1b65182ce9, 2022-04-05)"
+   sodipodi:docname="DotProduct_angle_01.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3444"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="in"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:snap-text-baseline="true"
+     inkscape:snap-page="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="2.0712039"
+     inkscape:cx="256.37263"
+     inkscape:cy="129.63475"
+     inkscape:window-width="2560"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:deskcolor="#d1d1d1">
+    <sodipodi:guide
+       position="88.900005,50.800002"
+       orientation="1,0"
+       id="guide3781" />
+    <sodipodi:guide
+       position="83.900006,5.0000009"
+       orientation="0,-1"
+       id="guide4372" />
+    <sodipodi:guide
+       position="5.0000003,45.800001"
+       orientation="0,-1"
+       id="guide4374" />
+    <sodipodi:guide
+       position="5.0000003,48.300001"
+       orientation="1,0"
+       id="guide4376" />
+    <sodipodi:guide
+       position="172.80001,5.0000008"
+       orientation="1,0"
+       id="guide4378" />
+    <sodipodi:guide
+       position="83.900006,5.0000008"
+       orientation="1,0"
+       id="guide4620" />
+    <sodipodi:guide
+       position="93.900007,5.0000008"
+       orientation="1,0"
+       id="guide4622" />
+  </sodipodi:namedview>
+  <defs
+     id="defs3439" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:none;text-align:start;text-anchor:start;stroke-width:0.264583"
+       x="4.6830516"
+       y="60.380119"
+       id="theme"><tspan
+         sodipodi:role="line"
+         id="tspan6918"
+         style="text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="4.6830516"
+         y="60.380119">3D Math</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:none;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="44.607098"
+       y="9.2884521"
+       id="text2240"><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="44.607098"
+         y="9.2884521"
+         id="tspan1131">Given the 3D vectors </tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="44.607098"
+         y="16.346367"
+         id="tspan1523"><tspan
+           id="tspan744"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif">u</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif"
+           id="tspan1525"> and </tspan><tspan
+           id="tspan746"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:serif;-inkscape-font-specification:'serif Bold Italic'">v</tspan><tspan
+           id="tspan6589"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif">,</tspan></tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="44.607098"
+         y="23.401917"
+         id="tspan2789">what does the equation</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="44.607098"
+         y="30.457468"
+         id="tspan8150">below return?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:none;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="133.59805"
+       y="23.976488"
+       id="text2240-0"><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="133.59805"
+         y="23.976488"
+         id="tspan8150-2">The angle between</tspan><tspan
+         sodipodi:role="line"
+         style="text-align:center;text-anchor:middle;stroke-width:0.264583"
+         x="133.59805"
+         y="31.032038"
+         id="tspan51152"><tspan
+   style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:serif;-inkscape-font-specification:'serif Bold Italic'"
+   id="tspan53165">u</tspan> and <tspan
+   style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:serif;-inkscape-font-specification:'serif Bold Italic'"
+   id="tspan56141">v</tspan>.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:none;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="93.864723"
+       y="44.953331"
+       id="text2240-0-1"><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="93.864723"
+         y="44.953331"
+         id="tspan51152-0">The angle will be in radians</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:none;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="38.168739"
+       y="44.041622"
+       id="text2817-7-7"><tspan
+         sodipodi:role="line"
+         id="tspan2815-4-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif;stroke-width:0.264583"
+         x="38.168739"
+         y="44.041622">cos<tspan
+   style="font-size:3.52778px"
+   id="tspan14308"
+   dy="-2">-1</tspan><tspan
+   style="font-size:11.2889px"
+   id="tspan11948"
+   dy="2">(       )</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:none;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="44.190437"
+       y="39.007519"
+       id="text20618"><tspan
+         sodipodi:role="line"
+         id="tspan20616"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:serif;-inkscape-font-specification:'serif Bold Italic';stroke-width:0.264583"
+         x="44.190437"
+         y="39.007519">u•v</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:none;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="44.190437"
+       y="44.379112"
+       id="text20618-7"><tspan
+         sodipodi:role="line"
+         id="tspan20616-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif;stroke-width:0.264583"
+         x="44.190437"
+         y="44.379112">|<tspan
+   style="font-style:italic;font-weight:bold"
+   id="tspan40471">u</tspan>| |<tspan
+   style="font-style:italic;font-weight:bold"
+   id="tspan41267">v</tspan>|</tspan></text>
+    <path
+       style="fill:#000000;fill-opacity:0.25;stroke:#000000;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="M 35.275462,39.536687 H 53.105413"
+       id="path25524"
+       sodipodi:nodetypes="cc" />
+  </g>
+</svg>

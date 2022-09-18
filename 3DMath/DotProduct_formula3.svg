@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="7in"
+   height="2in"
+   viewBox="0 0 177.80001 50.800001"
+   version="1.1"
+   id="svg3442"
+   inkscape:version="1.2-beta (1b65182ce9, 2022-04-05)"
+   sodipodi:docname="DotProduct_formula3.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3444"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="in"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:snap-text-baseline="true"
+     inkscape:snap-page="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="2.9291246"
+     inkscape:cx="285.5802"
+     inkscape:cy="72.888671"
+     inkscape:window-width="2560"
+     inkscape:window-height="1017"
+     inkscape:window-x="2552"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:lockguides="true">
+    <sodipodi:guide
+       position="88.900005,50.800002"
+       orientation="1,0"
+       id="guide3781"
+       inkscape:locked="true" />
+    <sodipodi:guide
+       position="83.900006,5.0000009"
+       orientation="0,-1"
+       id="guide4372"
+       inkscape:locked="true" />
+    <sodipodi:guide
+       position="5.0000003,45.800001"
+       orientation="0,-1"
+       id="guide4374"
+       inkscape:locked="true" />
+    <sodipodi:guide
+       position="5.0000003,48.300001"
+       orientation="1,0"
+       id="guide4376"
+       inkscape:locked="true" />
+    <sodipodi:guide
+       position="172.80001,5.0000008"
+       orientation="1,0"
+       id="guide4378"
+       inkscape:locked="true" />
+    <sodipodi:guide
+       position="83.900006,5.0000008"
+       orientation="1,0"
+       id="guide4620"
+       inkscape:locked="true" />
+    <sodipodi:guide
+       position="93.900007,5.0000008"
+       orientation="1,0"
+       id="guide4622"
+       inkscape:locked="true" />
+    <sodipodi:guide
+       position="133.19015,25.400001"
+       orientation="1,0"
+       id="guide1132"
+       inkscape:locked="true" />
+    <sodipodi:guide
+       position="44.450002,25.400001"
+       orientation="1,0"
+       id="guide1134"
+       inkscape:locked="true" />
+    <sodipodi:guide
+       position="44.450002,25.400001"
+       orientation="0,1"
+       id="guide1136"
+       inkscape:label=""
+       inkscape:locked="true"
+       inkscape:color="rgb(0,134,229)" />
+    <sodipodi:guide
+       position="226.45348,19.727008"
+       orientation="1,0"
+       id="guide5494"
+       inkscape:locked="true" />
+    <sodipodi:guide
+       position="-69.101281,43.664052"
+       orientation="1,0"
+       id="guide6272" />
+  </sodipodi:namedview>
+  <defs
+     id="defs3439" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:none;text-align:start;text-anchor:start;stroke-width:0.264583"
+       x="4.6830516"
+       y="60.380119"
+       id="theme"><tspan
+         sodipodi:role="line"
+         id="tspan6918"
+         style="text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="4.6830516"
+         y="60.380119">3D Math</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:none;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="133.17603"
+       y="26.621553"
+       id="text2240-03"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:serif;-inkscape-font-specification:serif;stroke-width:0.264583"
+         x="133.17603"
+         y="26.621553"
+         id="tspan22473"
+         dy="0 0 0 0 -1 0 0 0 0 0 0 -1 0 0 0 0 0"><tspan
+   style="font-style:italic;font-weight:bold"
+   id="tspan73694">a</tspan><tspan
+   style="font-size:3.52778px"
+   id="tspan83998"
+   dy="1">x</tspan><tspan
+   style="font-style:italic;font-weight:bold"
+   id="tspan73698"
+   dy="-1">b</tspan><tspan
+   style="font-size:3.52778px"
+   id="tspan81852"
+   dy="1">x</tspan> + <tspan
+   style="font-style:italic;font-weight:bold"
+   id="tspan73702">a</tspan><tspan
+   style="font-size:3.52778px"
+   id="tspan79742"
+   dy="1">y</tspan><tspan
+   style="font-style:italic;font-weight:bold"
+   id="tspan73706"
+   dy="-1">b</tspan><tspan
+   style="font-size:3.52778px"
+   id="tspan78016"
+   dy="1">y</tspan> + <tspan
+   style="font-style:italic;font-weight:bold"
+   id="tspan73710">a</tspan><tspan
+   style="font-size:3.52778px"
+   id="tspan76296"
+   dy="1">z</tspan><tspan
+   style="font-style:italic;font-weight:bold"
+   id="tspan73714"
+   dy="-1">b</tspan><tspan
+   style="font-size:3.52778px"
+   id="tspan74302"
+   dy="1">z</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:none;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="44.493744"
+       y="16.920868"
+       id="text2240-5"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="44.493744"
+         y="16.920868"
+         id="tspan10952">Given 3D vectors <tspan
+   style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:serif;-inkscape-font-specification:'serif Italic'"
+   id="tspan4956">a</tspan> and <tspan
+   style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:serif;-inkscape-font-specification:'serif Italic'"
+   id="tspan7612">b</tspan>,</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="44.493744"
+         y="23.978783"
+         id="tspan3649">each with elements <tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif"
+   id="tspan25674">x</tspan>, <tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif"
+   id="tspan23588">y</tspan>, <tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif"
+   id="tspan21678">z</tspan>,</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="44.493744"
+         y="31.034332"
+         id="tspan3651">formulate the dot product</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="44.493744"
+         y="38.089882"
+         id="tspan976">between them.</tspan></text>
+  </g>
+</svg>

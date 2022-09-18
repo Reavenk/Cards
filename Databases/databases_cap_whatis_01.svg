@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="7in"
+   height="2in"
+   viewBox="0 0 177.80001 50.800001"
+   version="1.1"
+   id="svg3442"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="databases_cap_whatis_01.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3444"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="in"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:snap-text-baseline="true"
+     inkscape:snap-page="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="1.4645624"
+     inkscape:cx="364.61403"
+     inkscape:cy="99.347082"
+     inkscape:window-width="2560"
+     inkscape:window-height="1017"
+     inkscape:window-x="2552"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:snap-global="true">
+    <sodipodi:guide
+       position="88.900005,50.800002"
+       orientation="1,0"
+       id="guide3781" />
+    <sodipodi:guide
+       position="83.900006,5.0000009"
+       orientation="0,-1"
+       id="guide4372" />
+    <sodipodi:guide
+       position="5.0000003,45.800001"
+       orientation="0,-1"
+       id="guide4374" />
+    <sodipodi:guide
+       position="5.0000003,48.300001"
+       orientation="1,0"
+       id="guide4376" />
+    <sodipodi:guide
+       position="172.80001,5.0000008"
+       orientation="1,0"
+       id="guide4378" />
+    <sodipodi:guide
+       position="83.900006,5.0000008"
+       orientation="1,0"
+       id="guide4620" />
+    <sodipodi:guide
+       position="93.900007,5.0000008"
+       orientation="1,0"
+       id="guide4622" />
+    <sodipodi:guide
+       position="44.450003,25.400001"
+       orientation="0,-1"
+       id="guide6734" />
+    <sodipodi:guide
+       position="44.450003,25.400001"
+       orientation="1,0"
+       id="guide6736" />
+    <sodipodi:guide
+       position="133.35001,25.400001"
+       orientation="1,0"
+       id="guide6738" />
+  </sodipodi:namedview>
+  <defs
+     id="defs3439">
+    <rect
+       x="596.75438"
+       y="136.1527"
+       width="214.36808"
+       height="74.350587"
+       id="rect23127" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:none;text-align:start;text-anchor:start;stroke-width:0.264583"
+       x="4.6830516"
+       y="60.380119"
+       id="theme"><tspan
+         sodipodi:role="line"
+         id="tspan6918"
+         style="text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="4.6830516"
+         y="60.380119">Databases</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:none;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="44.625011"
+       y="23.976488"
+       id="text2240"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="44.625011"
+         y="23.976488"
+         id="tspan3381">What does</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="44.625011"
+         y="31.032038"
+         id="tspan5123"><tspan
+   style="font-weight:bold"
+   id="tspan4077">CAP</tspan> stand for?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:none;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="96.110046"
+       y="18.83111"
+       id="text2240-5-2-5"><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="96.110046"
+         y="18.83111"
+         id="tspan5123-9-9-2">(Reads receives the most recent change)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:none;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="96.347069"
+       y="29.020319"
+       id="text2240-5-2-5-7"><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="96.347069"
+         y="29.020319"
+         id="tspan5123-9-9-2-6">(No read errors will occur)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:none;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="96.347069"
+       y="40.303692"
+       id="text2240-5-2-5-7-4"><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="96.347069"
+         y="40.303692"
+         id="tspan5123-9-9-2-6-1">(Errors do not shut down the system)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:none;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="96.132095"
+       y="14.976735"
+       id="text2240-5-1"><tspan
+         sodipodi:role="line"
+         style="text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="96.132095"
+         y="14.976735"
+         id="tspan5123-9-0"><tspan
+   style="font-weight:bold"
+   id="tspan13880">C</tspan>oncistency</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:none;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="96.132095"
+       y="25.73094"
+       id="text2240-5-1-8"><tspan
+         sodipodi:role="line"
+         style="text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="96.132095"
+         y="25.73094"
+         id="tspan5123-9-0-1"><tspan
+   style="font-weight:bold"
+   id="tspan7519">A</tspan>vailability</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:none;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="96.132095"
+       y="36.449318"
+       id="text2240-5-1-8-4"><tspan
+         sodipodi:role="line"
+         style="text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="96.132095"
+         y="36.449318"
+         id="tspan5123-9-0-1-0"><tspan
+   style="font-weight:bold"
+   id="tspan8361">P</tspan>arition Tolerance</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:none;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="31.99234"
+       y="45.066193"
+       id="text2240-0"><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="31.99234"
+         y="45.066193"
+         id="tspan5123-8">In regards to the CAP theorem.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:none;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="28.354977"
+       y="11.231485"
+       id="text2240-6"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="28.354977"
+         y="11.231485"
+         id="tspan1634-0" /></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text23125"
+       style="line-height:1.25;font-family:sans-serif;font-size:21.33333333px;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:none;text-align:center;white-space:pre;shape-inside:url(#rect23127)" />
+  </g>
+</svg>

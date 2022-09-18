@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="7in"
+   height="2in"
+   viewBox="0 0 177.80001 50.800001"
+   version="1.1"
+   id="svg3442"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="databases_zooko_whatis_01.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3444"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="in"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:snap-text-baseline="true"
+     inkscape:snap-page="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="4.142408"
+     inkscape:cx="471.94772"
+     inkscape:cy="81.957161"
+     inkscape:window-width="2560"
+     inkscape:window-height="1017"
+     inkscape:window-x="2552"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:snap-global="false">
+    <sodipodi:guide
+       position="88.900005,50.800002"
+       orientation="1,0"
+       id="guide3781" />
+    <sodipodi:guide
+       position="83.900006,5.0000009"
+       orientation="0,-1"
+       id="guide4372" />
+    <sodipodi:guide
+       position="5.0000003,45.800001"
+       orientation="0,-1"
+       id="guide4374" />
+    <sodipodi:guide
+       position="5.0000003,48.300001"
+       orientation="1,0"
+       id="guide4376" />
+    <sodipodi:guide
+       position="172.80001,5.0000008"
+       orientation="1,0"
+       id="guide4378" />
+    <sodipodi:guide
+       position="83.900006,5.0000008"
+       orientation="1,0"
+       id="guide4620" />
+    <sodipodi:guide
+       position="93.900007,5.0000008"
+       orientation="1,0"
+       id="guide4622" />
+    <sodipodi:guide
+       position="44.450003,25.400001"
+       orientation="0,-1"
+       id="guide6734" />
+    <sodipodi:guide
+       position="44.450003,25.400001"
+       orientation="1,0"
+       id="guide6736" />
+    <sodipodi:guide
+       position="133.35001,25.400001"
+       orientation="1,0"
+       id="guide6738" />
+  </sodipodi:namedview>
+  <defs
+     id="defs3439">
+    <rect
+       x="596.75438"
+       y="136.1527"
+       width="214.36808"
+       height="74.350587"
+       id="rect23127" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path2183"
+       style="fill:none;stroke:#000000;stroke-width:0.264999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       inkscape:transform-center-x="2.4371836e-06"
+       inkscape:transform-center-y="-4.9428553"
+       d="m 133.35001,10.854689 -8.56146,14.828364 -8.56146,14.828364 h 17.12292 17.12289 l -8.56144,-14.828364 z" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:none;text-align:start;text-anchor:start;stroke-width:0.264583"
+       x="4.6830516"
+       y="60.380119"
+       id="theme"><tspan
+         sodipodi:role="line"
+         id="tspan6918"
+         style="text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="4.6830516"
+         y="60.380119">Databases</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:none;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="44.5065"
+       y="16.373857"
+       id="text2240"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="44.5065"
+         y="16.373857"
+         id="tspan1552">What are the names of the</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="44.5065"
+         y="23.429407"
+         id="tspan1467">three properties</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="44.5065"
+         y="30.484959"
+         id="tspan1469">of</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="44.5065"
+         y="37.540508"
+         id="tspan1471">Zoono's Triangle?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:none;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="28.354977"
+       y="11.231485"
+       id="text2240-6"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="28.354977"
+         y="11.231485"
+         id="tspan1634-0" /></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text23125"
+       style="line-height:1.25;font-family:sans-serif;font-size:21.33333333px;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:none;text-align:center;white-space:pre;shape-inside:url(#rect23127)" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:none;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="133.34224"
+       y="9.6107903"
+       id="text3175"><tspan
+         sodipodi:role="line"
+         id="tspan3173"
+         style="stroke-width:0.264583"
+         x="133.34224"
+         y="9.6107903">Human-meaningful</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:none;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="116.44846"
+       y="43.831261"
+       id="text3175-1"><tspan
+         sodipodi:role="line"
+         id="tspan3173-9"
+         style="stroke-width:0.264583"
+         x="116.44846"
+         y="43.831261">Decentralized</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52777px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:none;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="150.31522"
+       y="43.831261"
+       id="text4864"><tspan
+         sodipodi:role="line"
+         id="tspan4862"
+         style="stroke-width:0.264583"
+         x="150.31522"
+         y="43.831261">Secure</tspan></text>
+  </g>
+</svg>

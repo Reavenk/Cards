@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="7in"
+   height="2in"
+   viewBox="0 0 177.80001 50.800001"
+   version="1.1"
+   id="svg3442"
+   inkscape:version="1.2-beta (1b65182ce9, 2022-04-05)"
+   sodipodi:docname="Resistor_220_1.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3444"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="in"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:snap-text-baseline="true"
+     inkscape:snap-page="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="1.4645623"
+     inkscape:cx="317.8424"
+     inkscape:cy="41.992069"
+     inkscape:window-width="1356"
+     inkscape:window-height="1040"
+     inkscape:window-x="358"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     inkscape:deskcolor="#d1d1d1">
+    <sodipodi:guide
+       position="88.900005,50.800002"
+       orientation="1,0"
+       id="guide3781" />
+    <sodipodi:guide
+       position="83.900006,5.0000009"
+       orientation="0,-1"
+       id="guide4372" />
+    <sodipodi:guide
+       position="5.0000003,45.800001"
+       orientation="0,-1"
+       id="guide4374" />
+    <sodipodi:guide
+       position="5.0000003,48.300001"
+       orientation="1,0"
+       id="guide4376" />
+    <sodipodi:guide
+       position="172.80001,5.0000008"
+       orientation="1,0"
+       id="guide4378" />
+    <sodipodi:guide
+       position="83.900006,5.0000008"
+       orientation="1,0"
+       id="guide4620" />
+    <sodipodi:guide
+       position="93.900007,5.0000008"
+       orientation="1,0"
+       id="guide4622" />
+    <sodipodi:guide
+       position="44.497978,15.253697"
+       orientation="0,-1"
+       id="guide7843" />
+    <sodipodi:guide
+       position="99.767869,25.251252"
+       orientation="1,0"
+       id="guide7845" />
+  </sodipodi:namedview>
+  <defs
+     id="defs3439" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:none;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="11.370666"
+       y="60.380119"
+       id="theme"><tspan
+         sodipodi:role="line"
+         id="tspan6918"
+         style="stroke-width:0.264583"
+         x="11.370666"
+         y="60.380119">Electronics</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:none;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="44.379448"
+       y="15.402285"
+       id="text1162"><tspan
+         sodipodi:role="line"
+         x="44.379448"
+         y="15.402285"
+         style="font-size:5.64444px;stroke-width:0.264583"
+         id="tspan1164">What resistor value is this?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.2889px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:none;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="137.81566"
+       y="23.66576"
+       id="text1162-4"><tspan
+         sodipodi:role="line"
+         x="137.81566"
+         y="23.66576"
+         style="font-size:11.2889px;stroke-width:0.264583"
+         id="tspan2959">220Ω</tspan><tspan
+         sodipodi:role="line"
+         x="137.81566"
+         y="37.776886"
+         style="font-size:7.05556px;stroke-width:0.264583"
+         id="tspan5369">5%</tspan></text>
+    <rect
+       style="fill:#c2c2c2;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-opacity:1;stop-color:#000000"
+       id="rect1922"
+       width="43.965893"
+       height="1.687198"
+       x="22.51503"
+       y="34.702705" />
+    <path
+       id="path1917"
+       style="fill:#727272;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-opacity:1;stop-color:#000000"
+       d="m 36.29694,27.632058 a 7.0332695,7.9144831 0 0 0 -7.033116,7.914246 7.0332695,7.9144831 0 0 0 7.033116,7.914245 c 8.200861,0 4.158329,-1.531689 8.200762,-1.531689 4.042435,0 1.168066,1.531689 8.201317,1.531689 a 7.0332695,7.9144831 0 0 0 7.033116,-7.914245 7.0332695,7.9144831 0 0 0 -7.033116,-7.914246 c -7.033251,0 -4.158882,1.53169 -8.201317,1.53169 -4.042433,0 9.9e-5,-1.53169 -8.200762,-1.53169 z" />
+    <path
+       id="rect2531"
+       style="fill:#c09e08;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-opacity:1;stop-color:#000000"
+       d="m 52.699087,27.632058 c -0.03438,0 -0.06479,4.44e-4 -0.0987,5.17e-4 v 15.827458 c 0.03391,7.3e-5 0.06432,5.16e-4 0.0987,5.16e-4 a 7.0332695,7.9144831 0 0 0 3.12229,-0.823722 V 28.455781 a 7.0332695,7.9144831 0 0 0 -3.12229,-0.823723 z" />
+    <path
+       id="rect2533"
+       style="fill:#ff001b;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-opacity:1;stop-color:#000000"
+       d="m 35.957473,27.649628 a 7.0332695,7.9144831 0 0 0 -3.220992,1.079004 v 13.635344 a 7.0332695,7.9144831 0 0 0 3.220992,1.079003 z" />
+    <path
+       id="rect2535"
+       style="fill:#ff001b;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-opacity:1;stop-color:#000000"
+       d="M 38.880292,27.700788 V 43.39182 c 2.288215,-0.144505 2.848888,-0.493054 3.221509,-0.813904 V 28.514692 C 41.72918,28.193841 41.168507,27.845293 38.880292,27.700788 Z" />
+    <path
+       id="rect2537"
+       style="fill:#723b3b;fill-opacity:0.83137256;stroke:none;stroke-width:0.1;stroke-opacity:1;stop-color:#000000"
+       d="m 48.245612,28.060456 c -1.312013,0.420081 -1.153487,1.008111 -3.220992,1.091923 v 12.78785 c 2.067505,0.08381 1.908979,0.671842 3.220992,1.091923 z" />
+    <path
+       id="path8514"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-opacity:1;stop-color:#000000"
+       d="m 36.29694,27.632058 a 7.0332695,7.9144831 0 0 0 -7.033116,7.914246 7.0332695,7.9144831 0 0 0 7.033116,7.914245 c 8.200861,0 4.158329,-1.531689 8.200762,-1.531689 4.042435,0 1.168066,1.531689 8.201317,1.531689 a 7.0332695,7.9144831 0 0 0 7.033116,-7.914245 7.0332695,7.9144831 0 0 0 -7.033116,-7.914246 c -7.033251,0 -4.158882,1.53169 -8.201317,1.53169 -4.042433,0 9.9e-5,-1.53169 -8.200762,-1.53169 z" />
+  </g>
+</svg>

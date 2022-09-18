@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="7in"
+   height="2in"
+   viewBox="0 0 177.80001 50.800001"
+   version="1.1"
+   id="svg3442"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="LightModel_BRDF_physicallybased_01.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3444"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="in"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:snap-text-baseline="true"
+     inkscape:snap-page="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="2.0712039"
+     inkscape:cx="285.8241"
+     inkscape:cy="79.422407"
+     inkscape:window-width="2560"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="83.900006,5.0000009"
+       orientation="0,-1"
+       id="guide4372" />
+    <sodipodi:guide
+       position="5.0000003,45.800001"
+       orientation="0,-1"
+       id="guide4374" />
+    <sodipodi:guide
+       position="5.0000003,48.300001"
+       orientation="1,0"
+       id="guide4376" />
+    <sodipodi:guide
+       position="172.80001,5.0000008"
+       orientation="1,0"
+       id="guide4378" />
+    <sodipodi:guide
+       position="83.900006,5.0000008"
+       orientation="1,0"
+       id="guide4620" />
+    <sodipodi:guide
+       position="93.900007,5.0000008"
+       orientation="1,0"
+       id="guide4622" />
+    <sodipodi:guide
+       position="44.450003,5.0000042"
+       orientation="1,0"
+       id="guide24347" />
+    <sodipodi:guide
+       position="44.450004,25.4"
+       orientation="0,-1"
+       id="guide4653" />
+    <sodipodi:guide
+       position="133.35001,25.4"
+       orientation="1,0"
+       id="guide4655" />
+    <sodipodi:guide
+       position="10.858219,25.4"
+       orientation="1,0"
+       id="guide18008" />
+    <sodipodi:guide
+       position="88.900007,25.4"
+       orientation="1,0"
+       id="guide55998" />
+  </sodipodi:namedview>
+  <defs
+     id="defs3439" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:none;text-align:start;text-anchor:start;stroke-width:0.264583"
+       x="4.9559031"
+       y="60.380119"
+       id="theme"><tspan
+         sodipodi:role="line"
+         id="tspan6918"
+         style="text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="4.9559031"
+         y="60.380119">Simulations</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:none;text-align:start;text-anchor:start;stroke-width:0.264583"
+       x="4.9724393"
+       y="7.6802869"
+       id="text17397-34"><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="4.9724393"
+         y="7.6802869"
+         id="tspan1244-2">A <tspan
+   style="font-weight:bold"
+   id="tspan13346">physically based</tspan> BRDF has </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="4.9724393"
+         y="12.090012"
+         id="tspan4072">these 3 properties:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:none;text-align:start;text-anchor:start;stroke-width:0.264583"
+       x="4.8828669"
+       y="45.066193"
+       id="text17397-34-6"><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="4.8828669"
+         y="45.066193"
+         id="tspan4072-3">What do they mean?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:none;text-align:start;text-anchor:start;stroke-width:0.264583"
+       x="98.681984"
+       y="10.939203"
+       id="text17397-34-9"><tspan
+         sodipodi:role="line"
+         style="font-size:2.82222px;text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="98.681984"
+         y="10.939203"
+         dy="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1"
+         id="tspan42908" /><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="98.681984"
+         y="15.348928"
+         dy="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1"
+         id="tspan8316">There's no such thing as negative light.</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="98.681984"
+         y="19.758654"
+         dy="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1"
+         id="tspan8318" /><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="98.681984"
+         y="24.168379"
+         id="tspan8322">Helmholtz reciprocity. </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="98.681984"
+         y="28.578104"
+         dy="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1"
+         id="tspan9116"><tspan
+   dy="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1"
+   id="tspan10668"
+   style="font-size:3.52778px;text-align:start;text-anchor:start;stroke-width:0.264583">(Reflections are </tspan>reversible.)</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:2.82222px;text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="98.681984"
+         y="32.987831"
+         dy="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1"
+         id="tspan9120" /><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="98.681984"
+         y="37.397556"
+         dy="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1"
+         id="tspan9122">Convervation of energy.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:none;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="10.654269"
+       y="19.015625"
+       id="text21344"><tspan
+         sodipodi:role="line"
+         id="tspan21342"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:serif;-inkscape-font-specification:serif;text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="10.654269"
+         y="19.015625"
+         dy="0 0 -1 0 0 -1 0 0 0 -1"><tspan
+   style="font-style:italic"
+   id="tspan181123">f</tspan><tspan
+   style="font-size:3.52778px"
+   id="tspan36316"
+   dy="1">r</tspan>(<tspan
+   style="font-style:italic"
+   id="tspan107330">ω</tspan><tspan
+   style="font-size:3.52778px"
+   id="tspan38396"
+   dy="1">i</tspan>, <tspan
+   style="font-style:italic"
+   id="tspan110368">ω</tspan><tspan
+   style="font-size:3.52778px"
+   id="tspan40458"
+   dy="1">r</tspan>) ≥ 0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:none;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="10.654269"
+       y="28.102562"
+       id="text21344-8"><tspan
+         sodipodi:role="line"
+         id="tspan21342-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:serif;-inkscape-font-specification:serif;text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="10.654269"
+         y="28.102562"
+         dy="0 0 -1 0 0 -1 0 0 0 -1 0 0 0 0 0 -1 0 0 -1 0 0 0 -1"><tspan
+   style="font-style:italic"
+   id="tspan181929">f</tspan><tspan
+   style="font-size:3.52778px"
+   id="tspan36316-1"
+   dy="1">r</tspan>(<tspan
+   style="font-style:italic"
+   id="tspan112188">ω</tspan><tspan
+   style="font-size:3.52778px"
+   id="tspan38396-9"
+   dy="1">i</tspan>, <tspan
+   style="font-style:italic"
+   id="tspan106008">ω</tspan><tspan
+   style="font-size:3.52778px"
+   id="tspan40458-9"
+   dy="1">r</tspan>) = <tspan
+   style="font-style:italic"
+   id="tspan174207">f</tspan><tspan
+   style="font-size:3.52778px"
+   id="tspan171329"
+   dy="1">r</tspan>(<tspan
+   style="font-style:italic"
+   id="tspan174971">ω</tspan><tspan
+   style="font-size:3.52778px"
+   id="tspan177319"
+   dy="1">r</tspan>, <tspan
+   style="font-style:italic"
+   id="tspan174973">ω</tspan><tspan
+   style="font-size:3.52778px"
+   id="tspan175491"
+   dy="1">i</tspan>)</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:1.06, 1.06;stroke-dashoffset:0;stroke-opacity:0.5;stop-color:#000000"
+       d="M 5,21.781964 H 83.900001"
+       id="path55881" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:1.06, 1.06;stroke-dashoffset:0;stroke-opacity:0.5;stop-color:#000000"
+       d="M 93.900003,19.091053 H 172.8"
+       id="path55881-1" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:1.06, 1.06;stroke-dashoffset:0;stroke-opacity:0.5;stop-color:#000000"
+       d="M 5,30.7778 H 83.900001"
+       id="path56196" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:none;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="10.654269"
+       y="37.098396"
+       id="text56206"><tspan
+         sodipodi:role="line"
+         id="tspan56204"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:serif;-inkscape-font-specification:serif;text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="10.654269"
+         y="37.098396"
+         dy="0 0 0 -1 0 0 0 0 0 0 -1 0 0 -1 0 0 0 -1 0 0 0 0 0 0 -1 0 0 -1">Ɐ<tspan
+   style="font-style:italic"
+   id="tspan137432">ω</tspan><tspan
+   style="font-size:2.11667px"
+   id="tspan165532"
+   dy="1">i</tspan>,    <tspan
+   style="font-style:italic"
+   id="tspan69562">f</tspan><tspan
+   style="font-size:2.11667px"
+   id="tspan117332"
+   dy="1">r</tspan>(<tspan
+   style="font-style:italic"
+   id="tspan101468">ω</tspan><tspan
+   style="font-size:2.11667px"
+   id="tspan120132"
+   dy="1">i</tspan>, <tspan
+   style="font-style:italic"
+   id="tspan102280">ω</tspan><tspan
+   style="font-size:2.11667px"
+   id="tspan121710"
+   dy="1">r</tspan>) cosθ<tspan
+   style="font-size:2.11667px"
+   id="tspan97022"
+   dy="1">r</tspan><tspan
+   style="font-style:italic"
+   id="tspan141298">dω</tspan><tspan
+   style="font-size:2.11667px"
+   id="tspan126526"
+   dy="1">r</tspan> ≤ 1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:none;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="21.605434"
+       y="40.16201"
+       id="text145538"><tspan
+         sodipodi:role="line"
+         id="tspan145536"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:serif;-inkscape-font-specification:serif;stroke-width:0.264583"
+         x="21.605434"
+         y="40.16201">Ω</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:none;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="19.937319"
+       y="38.098396"
+       id="text151704"><tspan
+         sodipodi:role="line"
+         id="tspan151702"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:serif;-inkscape-font-specification:serif;stroke-width:0.264583"
+         x="19.937319"
+         y="38.098396">∫</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:1.06, 1.06;stroke-dashoffset:0;stroke-opacity:0.5;stop-color:#000000"
+       d="M 93.900003,31.791055 H 172.8"
+       id="path167354" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:1.06, 1.06;stroke-dashoffset:0;stroke-opacity:0.5;stop-color:#000000"
+       d="M 5,13.844465 H 83.900001"
+       id="path182602" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:1.06, 1.06;stroke-dashoffset:0;stroke-opacity:0.5;stop-color:#000000"
+       d="M 5,41.361134 H 83.900001"
+       id="path182604" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:1.06, 1.06;stroke-dashoffset:0;stroke-opacity:0.5;stop-color:#000000"
+       d="M 93.900003,10.095219 H 172.8"
+       id="path182606" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:1.06, 1.06;stroke-dashoffset:0;stroke-opacity:0.5;stop-color:#000000"
+       d="M 93.900003,39.728554 H 172.8"
+       id="path182608" />
+  </g>
+</svg>

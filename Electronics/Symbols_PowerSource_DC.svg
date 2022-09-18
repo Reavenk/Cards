@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="7in"
+   height="2in"
+   viewBox="0 0 177.80001 50.800001"
+   version="1.1"
+   id="svg3442"
+   inkscape:version="1.2-beta (1b65182ce9, 2022-04-05)"
+   sodipodi:docname="Symbols_PowerSource_DC.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3444"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="in"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:snap-text-baseline="true"
+     inkscape:snap-page="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="2.9291246"
+     inkscape:cx="178.89304"
+     inkscape:cy="111.12535"
+     inkscape:window-width="1356"
+     inkscape:window-height="1040"
+     inkscape:window-x="358"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     inkscape:deskcolor="#d1d1d1">
+    <sodipodi:guide
+       position="88.900005,50.800002"
+       orientation="1,0"
+       id="guide3781" />
+    <sodipodi:guide
+       position="83.900006,5.0000009"
+       orientation="0,-1"
+       id="guide4372" />
+    <sodipodi:guide
+       position="5.0000003,45.800001"
+       orientation="0,-1"
+       id="guide4374" />
+    <sodipodi:guide
+       position="5.0000003,48.300001"
+       orientation="1,0"
+       id="guide4376" />
+    <sodipodi:guide
+       position="172.80001,5.0000008"
+       orientation="1,0"
+       id="guide4378" />
+    <sodipodi:guide
+       position="83.900006,5.0000008"
+       orientation="1,0"
+       id="guide4620" />
+    <sodipodi:guide
+       position="93.900007,5.0000008"
+       orientation="1,0"
+       id="guide4622" />
+    <sodipodi:guide
+       position="44.497978,15.253697"
+       orientation="0,-1"
+       id="guide7843" />
+    <sodipodi:guide
+       position="99.767869,25.251252"
+       orientation="1,0"
+       id="guide7845" />
+  </sodipodi:namedview>
+  <defs
+     id="defs3439" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:none;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="11.370666"
+       y="60.380119"
+       id="theme"><tspan
+         sodipodi:role="line"
+         id="tspan6918"
+         style="stroke-width:0.264583"
+         x="11.370666"
+         y="60.380119">Electronics</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:none;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="44.379448"
+       y="15.402285"
+       id="text1162"><tspan
+         sodipodi:role="line"
+         id="tspan1160"
+         x="44.379448"
+         y="15.402285"
+         style="font-size:5.64444px;stroke-width:0.264583">What is this</tspan><tspan
+         sodipodi:role="line"
+         x="44.379448"
+         y="22.457836"
+         style="font-size:5.64444px;stroke-width:0.264583"
+         id="tspan1164">schematic symbol?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:none;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="133.11858"
+       y="27.451754"
+       id="text1162-4"><tspan
+         sodipodi:role="line"
+         x="133.11858"
+         y="27.451754"
+         style="font-size:5.64444px;stroke-width:0.264583"
+         id="tspan1164-3">DC Power Source</tspan></text>
+    <rect
+       style="fill:#e8e8e8;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="rect22256"
+       width="15.87401"
+       height="15.87401"
+       x="36.560966"
+       y="27.609291"
+       rx="3" />
+    <path
+       id="path22481"
+       style="fill:none;stroke:#000000;stroke-width:0.264999;stop-color:#000000"
+       d="m 50.465141,35.546303 a 5.9671702,5.9671702 0 0 1 -5.96717,5.96717 5.9671702,5.9671702 0 0 1 -5.967171,-5.96717 5.9671702,5.9671702 0 0 1 5.967171,-5.96717 5.9671702,5.9671702 0 0 1 5.96717,5.96717 z" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       d="m 38.530785,35.546297 h -1.96984"
+       id="path23499" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       d="m 50.465125,35.546297 h 1.96982"
+       id="path23501" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       d="m 46.676575,35.546297 h 2.5257"
+       id="path23503" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       d="m 39.793635,35.546297 h 2.5257"
+       id="path25009" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       d="m 41.056485,34.283447 v 2.5257"
+       id="path25011" />
+  </g>
+</svg>

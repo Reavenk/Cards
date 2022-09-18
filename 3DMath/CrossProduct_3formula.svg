@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="7in"
+   height="2in"
+   viewBox="0 0 177.80001 50.800001"
+   version="1.1"
+   id="svg3442"
+   inkscape:version="1.2-beta (1b65182ce9, 2022-04-05)"
+   sodipodi:docname="CrossProduct_3formula.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3444"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="in"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:snap-text-baseline="true"
+     inkscape:snap-page="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="2.0712039"
+     inkscape:cx="393.73236"
+     inkscape:cy="88.595816"
+     inkscape:window-width="2560"
+     inkscape:window-height="1017"
+     inkscape:window-x="2552"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:deskcolor="#d1d1d1">
+    <sodipodi:guide
+       position="88.900005,50.800002"
+       orientation="1,0"
+       id="guide3781" />
+    <sodipodi:guide
+       position="83.900006,5.0000009"
+       orientation="0,-1"
+       id="guide4372" />
+    <sodipodi:guide
+       position="5.0000003,45.800001"
+       orientation="0,-1"
+       id="guide4374" />
+    <sodipodi:guide
+       position="5.0000003,48.300001"
+       orientation="1,0"
+       id="guide4376" />
+    <sodipodi:guide
+       position="172.80001,5.0000008"
+       orientation="1,0"
+       id="guide4378" />
+    <sodipodi:guide
+       position="83.900006,5.0000008"
+       orientation="1,0"
+       id="guide4620" />
+    <sodipodi:guide
+       position="93.900007,5.0000008"
+       orientation="1,0"
+       id="guide4622" />
+  </sodipodi:namedview>
+  <defs
+     id="defs3439" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:none;text-align:start;text-anchor:start;stroke-width:0.264583"
+       x="4.6830516"
+       y="60.380119"
+       id="theme"><tspan
+         sodipodi:role="line"
+         id="tspan6918"
+         style="text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="4.6830516"
+         y="60.380119">3D Math</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:none;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="44.445866"
+       y="15.315525"
+       id="text2240"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="44.445866"
+         y="15.315525"
+         id="tspan2017">Given vectors <tspan
+   style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:serif;-inkscape-font-specification:'serif Bold Italic'"
+   id="tspan24088">a</tspan> and <tspan
+   style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:serif;-inkscape-font-specification:'serif Bold'"
+   id="tspan25378">b</tspan></tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="44.445866"
+         y="22.37344"
+         id="tspan3619">with elements <tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif"
+   id="tspan19926">x</tspan>,<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif"
+   id="tspan21158">y</tspan>,<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif"
+   id="tspan22646">z</tspan>,</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="44.445866"
+         y="29.428989"
+         id="tspan3621">give the formula for a</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="44.445866"
+         y="36.484539"
+         id="tspan4309"><tspan
+   style="font-weight:bold"
+   id="tspan5473">cross product</tspan>.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:none;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="109.42761"
+       y="19.596796"
+       id="text2240-77"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif;text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="109.42761"
+         y="19.596796"
+         id="tspan4309-9"
+         dy="0 0 -1 0 0 0 0 0 0 -1 0 0 0 0"><tspan
+   style="font-style:italic;font-weight:bold"
+   id="tspan36600">v</tspan><tspan
+   style="font-size:3.52778px"
+   id="tspan38953"
+   dy="1">x</tspan> = <tspan
+   style="font-style:italic;font-weight:bold"
+   id="tspan37597">a</tspan><tspan
+   style="font-size:3.52778px"
+   id="tspan43371"
+   dy="1">y</tspan><tspan
+   style="font-style:italic;font-weight:bold"
+   id="tspan37633"
+   dy="-1">b</tspan><tspan
+   style="font-size:3.52778px"
+   id="tspan49501"
+   dy="1">z</tspan> - <tspan
+   style="font-style:italic;font-weight:bold"
+   id="tspan37609">a</tspan><tspan
+   style="font-size:3.52778px"
+   id="tspan54721"
+   dy="1">z</tspan><tspan
+   style="font-style:italic;font-weight:bold"
+   id="tspan37629"
+   dy="-1">b</tspan><tspan
+   style="font-size:3.52778px"
+   id="tspan62107"
+   dx="0"
+   dy="1">y</tspan></tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif;text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="109.42761"
+         y="26.652346"
+         id="tspan33680"
+         dy="0 0 -1 0 0 0 0 0 0 -1 0 0 0 0"><tspan
+   style="font-style:italic;font-weight:bold"
+   id="tspan36604">v</tspan><tspan
+   style="font-size:3.52778px"
+   id="tspan40511"
+   dy="1">y</tspan> = <tspan
+   style="font-style:italic;font-weight:bold"
+   id="tspan37601">b</tspan><tspan
+   style="font-size:3.52778px"
+   id="tspan44575"
+   dy="1">z</tspan><tspan
+   style="font-style:italic;font-weight:bold"
+   id="tspan37637"
+   dy="-1">a</tspan><tspan
+   style="font-size:3.52778px"
+   id="tspan51293"
+   dy="1">x</tspan> - <tspan
+   style="font-style:italic;font-weight:bold"
+   id="tspan37613">a</tspan><tspan
+   style="font-size:3.52778px"
+   id="tspan58109"
+   dy="1">x</tspan><tspan
+   style="font-style:italic;font-weight:bold"
+   id="tspan37625"
+   dy="-1">b</tspan><tspan
+   style="font-size:3.52778px"
+   id="tspan63843"
+   dy="1">z</tspan></tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:serif;-inkscape-font-specification:serif;text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="109.42761"
+         y="33.707897"
+         id="tspan33682"
+         dy="0 0 -1 0 0 0 0 0 0 -1 0 0 0 0"><tspan
+   style="font-style:italic;font-weight:bold"
+   id="tspan37593">v</tspan><tspan
+   style="font-size:3.52778px"
+   id="tspan42135"
+   dy="1">z</tspan> = <tspan
+   style="font-style:italic;font-weight:bold"
+   id="tspan37605">a</tspan><tspan
+   style="font-size:3.52778px"
+   id="tspan46863"
+   dy="1">x</tspan><tspan
+   style="font-style:italic;font-weight:bold"
+   id="tspan37641"
+   dy="-1">b</tspan><tspan
+   style="font-size:3.52778px"
+   id="tspan53061"
+   dy="1">y</tspan> - <tspan
+   style="font-style:italic;font-weight:bold"
+   id="tspan37617">a</tspan><tspan
+   style="font-size:3.52778px"
+   id="tspan60123"
+   dy="1">y</tspan><tspan
+   style="font-style:italic;font-weight:bold"
+   id="tspan37621"
+   dy="-1">b</tspan><tspan
+   style="font-size:3.52778px"
+   id="tspan65531"
+   dy="1">x</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:none;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="34.061123"
+       y="45.750046"
+       id="text2240-7"><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="34.061123"
+         y="45.750046"
+         id="tspan4309-5">The result vector will be called <tspan
+   style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:serif;-inkscape-font-specification:'serif Bold Italic'"
+   id="tspan16572">v</tspan>.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:none;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="108.792"
+       y="26.957182"
+       id="text2240-2-8"><tspan
+         sodipodi:role="line"
+         style="text-align:start;text-anchor:start;stroke-width:0.264583"
+         x="108.792"
+         y="26.957182"
+         id="tspan7037" /></text>
+  </g>
+</svg>

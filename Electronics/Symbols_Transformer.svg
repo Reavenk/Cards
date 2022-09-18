@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="7in"
+   height="2in"
+   viewBox="0 0 177.80001 50.800001"
+   version="1.1"
+   id="svg3442"
+   inkscape:version="1.2-beta (1b65182ce9, 2022-04-05)"
+   sodipodi:docname="Symbols_Transformer.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3444"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="in"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:snap-text-baseline="true"
+     inkscape:snap-page="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="2.9291246"
+     inkscape:cx="456.79177"
+     inkscape:cy="96.103798"
+     inkscape:window-width="1356"
+     inkscape:window-height="1040"
+     inkscape:window-x="358"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     inkscape:deskcolor="#d1d1d1">
+    <sodipodi:guide
+       position="88.900005,50.800002"
+       orientation="1,0"
+       id="guide3781" />
+    <sodipodi:guide
+       position="83.900006,5.0000009"
+       orientation="0,-1"
+       id="guide4372" />
+    <sodipodi:guide
+       position="5.0000003,45.800001"
+       orientation="0,-1"
+       id="guide4374" />
+    <sodipodi:guide
+       position="5.0000003,48.300001"
+       orientation="1,0"
+       id="guide4376" />
+    <sodipodi:guide
+       position="172.80001,5.0000008"
+       orientation="1,0"
+       id="guide4378" />
+    <sodipodi:guide
+       position="83.900006,5.0000008"
+       orientation="1,0"
+       id="guide4620" />
+    <sodipodi:guide
+       position="93.900007,5.0000008"
+       orientation="1,0"
+       id="guide4622" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid2981" />
+  </sodipodi:namedview>
+  <defs
+     id="defs3439" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:none;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="11.370666"
+       y="60.380119"
+       id="theme"><tspan
+         sodipodi:role="line"
+         id="tspan6918"
+         style="stroke-width:0.264583"
+         x="11.370666"
+         y="60.380119">Electronics</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:none;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="44.379448"
+       y="15.402285"
+       id="text1162"><tspan
+         sodipodi:role="line"
+         id="tspan1160"
+         x="44.379448"
+         y="15.402285"
+         style="font-size:5.64444px;stroke-width:0.264583">What is this</tspan><tspan
+         sodipodi:role="line"
+         x="44.379448"
+         y="22.457836"
+         style="font-size:5.64444px;stroke-width:0.264583"
+         id="tspan1164">schematic symbol?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:none;text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="133.11858"
+       y="27.451754"
+       id="text1162-4"><tspan
+         sodipodi:role="line"
+         x="133.11858"
+         y="27.451754"
+         style="font-size:5.64444px;stroke-width:0.264583"
+         id="tspan1164-3">Transformer</tspan></text>
+    <rect
+       style="fill:#e8e8e8;fill-opacity:1;stroke:none;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="rect63831"
+       width="15.87401"
+       height="15.87401"
+       x="36.652"
+       y="27.609259"
+       ry="3" />
+    <path
+       id="path63841"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       d="m 42.023267,32.484025 c 0.84566,5.4e-5 1.53123,-0.685507 1.53117,-1.531172 6e-5,-0.845665 -0.6855,-1.531227 -1.53117,-1.531173 h -5.37132"
+       sodipodi:nodetypes="cccc" />
+    <path
+       id="path63841-9"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       d="m 42.023267,35.546371 c 0.84567,5.4e-5 1.53123,-0.685508 1.53117,-1.531173 6e-5,-0.845665 -0.6855,-1.531227 -1.53117,-1.531173"
+       sodipodi:nodetypes="ccc" />
+    <path
+       id="path63841-93"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       d="m 42.023267,38.608199 c 0.84546,5.4e-5 1.53094,-0.685193 1.53117,-1.530656 6e-5,-0.845664 -0.68551,-1.531226 -1.53117,-1.531171"
+       sodipodi:nodetypes="ccc" />
+    <path
+       id="path63841-7"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       d="m 42.023267,38.608199 c 0.84567,-5.4e-5 1.53123,0.685508 1.53117,1.531173 6e-5,0.845665 -0.6855,1.531227 -1.53117,1.531173 0,0.08273 -5.37132,0 -5.37132,0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       id="path63905"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       d="m 47.202287,32.483914 c -0.84566,5.4e-5 -1.53123,-0.685507 -1.53117,-1.531172 -6e-5,-0.845665 0.6855,-1.531227 1.53117,-1.531173 h 5.32367"
+       sodipodi:nodetypes="cccc" />
+    <path
+       id="path63907"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       d="m 47.202287,35.54626 c -0.84567,5.4e-5 -1.53123,-0.685508 -1.53117,-1.531173 -6e-5,-0.845665 0.6855,-1.531227 1.53117,-1.531173"
+       sodipodi:nodetypes="ccc" />
+    <path
+       id="path63909"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       d="m 47.202287,38.608088 c -0.84546,5.4e-5 -1.53094,-0.685193 -1.53117,-1.530656 -6e-5,-0.845665 0.68551,-1.531226 1.53117,-1.531172"
+       sodipodi:nodetypes="ccc" />
+    <path
+       id="path63911"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       d="m 47.202287,38.608088 c -0.84567,-5.4e-5 -1.53123,0.685508 -1.53117,1.531173 -6e-5,0.845665 0.6855,1.531227 1.53117,1.531173 0,0.08273 5.32367,0 5.32367,0"
+       sodipodi:nodetypes="cccc" />
+  </g>
+</svg>
